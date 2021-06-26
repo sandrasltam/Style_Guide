@@ -197,6 +197,17 @@ body{
   background-color: #E3EDE6;
 }
 
+
+.primaryDisabled{
+ background-color: #E4E4E4;
+ color: #999999;
+border-color: #E4E4E4;
+}
+.secondaryDisabled{
+background-color: #E4E4E4;
+ color: #999999;
+}
+
 .sectionHead{
   border-top: 1px solid #18191a;
   padding-top: 50px;
